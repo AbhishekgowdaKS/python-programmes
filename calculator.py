@@ -1,5 +1,5 @@
 a=float(input('number 1 : '))
-y=float(input('number 2 : '))
+b=float(input('number 2 : '))
 print('select the operation : \n1.addition\n2.subtraction\n3.multiplication\n4.division\n5.Exit')
 ch=input('option : ')
 while(ch!='5'):
