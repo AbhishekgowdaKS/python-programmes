@@ -34,4 +34,4 @@ p1=fact
 p2=facto
 p3=factor
 bino=(p1/(p2*p3))*(p**x)*(q**(n-x))
-print("your binomial distribution is",bino)
+print("your binomial distribution =",bino)
